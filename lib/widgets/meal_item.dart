@@ -45,7 +45,7 @@ class MealItem extends StatelessWidget {
         return 'Pricey';
         break;
       case Affordability.Luxurious:
-        return 'Luxurious';
+        return 'Luxurioussss';
         break;
       default:
         return 'Unknown';
